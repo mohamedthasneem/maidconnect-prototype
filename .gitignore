@@ -1,0 +1,3 @@
+.preview-*.log
+.agents/
+.DS_Store
