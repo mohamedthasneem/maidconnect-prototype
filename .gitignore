@@ -4,3 +4,10 @@
 MAIDCONNECT-Architecture-Review.md
 MAIDCONNECT-Mobile-Platform-Adoption-Report.doc
 CLAUDE.md
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+.env*
+!.env.example
